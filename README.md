@@ -1,4 +1,7 @@
 # list-1, implement fixed-size array list, following the project structure in this repository.
-You only need to add code to list.c and test code in main.c
-You only need to submit list.c file
+One must implement all operations (functions) declared in list.h,
+and the code should be added to list.c 
+One can test his/her code in main.c by calling operations ( functions ) in list.h and list.c
+For grading, only code in list.c is taken, so one should not put implementation in other source files.
+Note: do not make any change to list.h 
 
